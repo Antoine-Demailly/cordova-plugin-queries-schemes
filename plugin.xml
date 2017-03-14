@@ -41,17 +41,8 @@
           <string>whatsapp</string>
           <string>snapchat</string>
           <string>comgooglemaps</string>
-          <string>amazon</string>
-          <string>skype</string>
           <string>googledrive</string>
           <string>itms-apps</string>
-          <string>tel</string>
-          <string>mailto</string>
-          <string>uber</string>
-          <string>lyft</string>
-          <string>sumupmerchant</string>
-          <string>yammer</string>
-          <string>salesforce</string>
         </array>
       </config-file>
     </platform>
